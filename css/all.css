@@ -1,0 +1,44 @@
+.philgo-title {
+    color:#D00000;
+    font-family: "Malgun Gothic", 'Gulim', serif;
+}
+.philgo-title-power {
+    margin:10px 0 0 4px;
+    font-size:9pt;
+}
+
+
+/** BODY 백그라운드 없애기 */
+html, body {
+    background:white url('');
+
+}
+/** 컨텐츠 왼쪽 여백 없애기. Iframe 으로 하는 경우 */
+#dokuwiki__site > .site {
+    padding-left:.6em;
+}
+/** 로고 상단 여백 없애기 */
+#dokuwiki__header {
+    padding: 0.4em 0 0.2em;
+}
+/** 로고 하단 여백 없애기 */
+#dokuwiki__header .headings, #dokuwiki__header .tools {
+    margin-bottom: 0.4em;
+}
+/** breadcrumbs 하단 라인 없애기 */
+.dokuwiki div.breadcrumbs div:only-child {
+    border-bottom:0;
+}
+/** breadcrumbs 상단 라인과 컨텐츠 여벽 */
+.dokuwiki div.breadcrumbs div {
+    padding:.6em .35em 0.1em;
+}
+
+/** page id 넓히기 */
+.dokuwiki .pageId {
+    top:-2.8em;
+}
+.dokuwiki .pageId span {
+    padding:.4em .8em;
+}
+/** eo */
