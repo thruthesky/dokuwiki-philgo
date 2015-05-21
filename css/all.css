@@ -42,3 +42,12 @@ html, body {
     padding:.4em .8em;
 }
 /** eo */
+
+/** tools 부분의 여백을 없애기 */
+#dokuwiki__site > div#dokuwiki__top.site {
+    padding-right:400px!important;
+}
+#dokuwiki__pagetools {
+    z-index: 10000;
+    right:8px!important;
+}
