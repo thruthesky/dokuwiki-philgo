@@ -11,7 +11,7 @@ if (!defined('DOKU_INC')) die();
 <div id="dokuwiki__footer"><div class="pad">
     <?php /* tpl_license('');  license text */?>
 	<div class="license">
-		필고 위키는 크리에이티브 커먼즈 3.0 라이선스를 따르며
+		필리핀 정보 백과는 크리에이티브 커먼즈 3.0 라이선스를 따르며
 		무료로 공개하는 자료만 올릴 수 있습니다.
 	</div>
 
@@ -34,9 +34,9 @@ if (!defined('DOKU_INC')) die();
 
 
 					<ul>
-						<li class="how-to-use"><a href="./doku.php?id=wiki:사용_방법">필고 위키 사용방법</a></li>
-						<li class="how-to-edit"><a href="./doku.php?id=wiki:페이지_수정_방법">페이지 수정하기</a></li>
-						<li class="how-to-create"><a href="./doku.php?id=wiki:페이지_생성_방법">페이지 생성하기</a></li>
+						<li class="how-to-use"><a href="./doku.php?id=wiki:%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%83%9D%EC%84%B1_%EB%B0%A9%EB%B2%95">필고 위키 사용방법</a></li>
+						<li class="how-to-edit"><a href="./doku.php?id=wiki:%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%88%98%EC%A0%95_%EB%B0%A9%EB%B2%95">페이지 수정하기</a></li>
+						<li class="how-to-create"><a href="./doku.php?id=wiki:%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%83%9D%EC%84%B1_%EB%B0%A9%EB%B2%95">페이지 생성하기</a></li>
 					</ul>
 
 				</td>

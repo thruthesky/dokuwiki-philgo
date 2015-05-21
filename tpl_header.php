@@ -23,7 +23,7 @@ if (!defined('DOKU_INC')) die();
             // $logo = tpl_getMediaFile(array(':wiki:logo.png', ':logo.png', 'images/logo.png'), false, $logoSize);
 
 	        $logo = "lib/tpl/dokuwiki-philgo/images/logo-philgo.png";
-	        $_title = "<div class='philgo-title'>필리핀 정보 위키</div><div class='philgo-title-power'>Powered by 필고 <a href='//www.philgo.com' target='_blank'>www.philgo.com</a></div>";
+	        $_title = "<div class='philgo-title'>필리핀 정보 백과</div><div class='philgo-title-power'>Powered by 필고 <a href='//www.philgo.com' target='_blank'>www.philgo.com</a></div>";
 
             // display logo and wiki title in a link to the home page
             tpl_link(
